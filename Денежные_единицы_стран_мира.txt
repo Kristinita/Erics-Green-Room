@@ -23,7 +23,7 @@
 
 Ссылка на источник: https://rutracker.org/forum/viewtopic.php?t=3173063
 
-Постоянный адрес пакета:
+Постоянный адрес пакета: https://github.com/Kristinita/Eric-s-Green-Room/blob/master/Денежные_единицы_стран_мира.txt
 
 <body>
 <!-- Северная Америка -->
