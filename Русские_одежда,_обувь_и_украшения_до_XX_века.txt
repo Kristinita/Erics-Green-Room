@@ -13,7 +13,7 @@
 
 Автор(ы) материалов источников:
 
-1. Ответственный редактор — Михаил Рабинович, известный советский историк, археолог и этнограф, https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87 ,
+1. Ответственный редактор — Михаил Рабинович, известный советский историк, археолог и этнограф, https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87 ; если в поле «Источник:» стоит только цифра, это означает страницу данной книги.
 2. Доцент, доктор исторических наук Марина Владимировна Короткова, http://мпгу.рф/staff/korotkova-marina-vladimirovna/ .
 
 Ссылки на источники:
@@ -21,7 +21,9 @@
 1. https://yadi.sk/i/AbGxKf0T3MJybX ,
 2. http://www.booksite.ru/localtxt/korot/kova/byt/index.htm — в свободном доступе книга найдена только в формате HTML на сайте booksite.ru .
 
-Постоянный адрес пакета:
+Примечания: ввиду затруднений в поисках изображений в авторитетных источниках, они могут быть взяты из неавторитетных, из-за чего повышается вероятность, что изображено именно то, что указано в описании.
+
+Постоянный адрес пакета: https://github.com/Kristinita/Eric-s-Green-Room/blob/master/Русские_одежда,_обувь_и_украшения_до_XX_века.txt
 
 <body>
 <!-- Россия до XVII века -->
@@ -63,10 +65,10 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/01_010_Book_illustrati
 http://www.booksite.ru/localtxt/korot/kova/byt/81_.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B_XVII_%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D1%8F_%D0%B2_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg/300px-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B_XVII_%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D1%8F_%D0%B2_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg (Справа) Женская одежда с сильно свисающими рукавами — накапками.*Летник*-info-Женщине приходилось сгибать рукава в локтях, чтобы накапки не волочились по полу.*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/13.htm *-proof-http://www.booksite.ru/localtxt/korot/kova/byt/13.htm
 http://www.booksite.ru/localtxt/korot/kova/byt/82_.jpg Длинная до пят богатая летняя верхняя одежда со свисающими рукавами*Опашень*-info-Не путать с охабнем.*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/14.htm *-proof-http://www.booksite.ru/localtxt/korot/kova/byt/4.htm
 http://www.booksite.ru/localtxt/korot/kova/byt/87_.gif (Слева) Узкая в плечах длинная до пят верхняя женская одежда со свисающими рукавами.*Телогрея*-info-Не путать с душегреей.*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/14.htm
-https://s-media-cache-ak0.pinimg.com/originals/ac/35/7e/ac357edd098af19699d957ab7d98cef0.jpg Лента, тесьма, вплетаемая в косу*Косник*Накосник*-proof- На накосник — 80.*-proof-http://dic.academic.ru/dic.nsf/efremova/177871/%D0%9A%D0%BE%D1%81%D0%BD%D0%B8%D0%BA
-http://megabook.ru/stream/mediapreview?Key=%d0%92%d0%be%d0%bb%d0%be%d1%81%d0%bd%d0%b8%d0%ba%20(17%20%d0%b2%d0%b5%d0%ba%d0%b0)&Width=200 Сетка из переплетённых металлических нитей, надеваемая на голову*Волосник*-proof-http://megabook.ru/article/%D0%92%D0%BE%D0%BB%D0%BE%D1%81%D0%BD%D0%B8%D0%BA *-proof-http://www.booksite.ru/localtxt/korot/kova/byt/15.htm
-Верхняя часть головного убора без околыша, козырька*Тулья*-info-http://cdn.bolshoyvopros.ru/files/users/images/f3/c0/f3c04c086c413d69c857575ecf71616d.jpg *-proof-http://dic.academic.ru/dic.nsf/ushakov/1060158
-Ободок шляпы, облегающий голову*Околыш*-info-http://cdn.bolshoyvopros.ru/files/users/images/f3/c0/f3c04c086c413d69c857575ecf71616d.jpg *-proof-http://dic.academic.ru/dic.nsf/ushakov/900958
+https://s-media-cache-ak0.pinimg.com/originals/ac/35/7e/ac357edd098af19699d957ab7d98cef0.jpg Лента, тесьма, вплетаемая в косу*Косник*Накосник*-proof-На накосник — 80.*-proof-http://dic.academic.ru/dic.nsf/efremova/177871/%D0%9A%D0%BE%D1%81%D0%BD%D0%B8%D0%BA
+https://i.imgur.com/IjcVTvt.jpg Сетка из переплетённых металлических нитей, надеваемая на голову*Волосник*-proof-http://megabook.ru/article/%D0%92%D0%BE%D0%BB%D0%BE%D1%81%D0%BD%D0%B8%D0%BA *-proof-http://www.booksite.ru/localtxt/korot/kova/byt/15.htm
+Верхняя часть головного убора без околыша, козырька*Тулья*-info-https://i.imgur.com/S6g3KoN.jpg *-proof-http://dic.academic.ru/dic.nsf/ushakov/1060158
+Ободок шляпы, облегающий голову*Околыш*-info-https://i.imgur.com/S6g3KoN.jpg *-proof-http://dic.academic.ru/dic.nsf/ushakov/900958
 http://www.bibliotekar.ru/rusSvadba/24.files/image003.jpg Каблукообразный головной убор, включающий кичку*Сорока*-info-Получил название из-за сходства с сорочьим хвостом.*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/18.htm *-proof-http://www.bibliotekar.ru/rusSvadba/24.htm
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ivan_Argunov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D0%B2_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC%D0%B5_-_Google_Art_Project.jpg/160px-Ivan_Argunov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D0%B2_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC%D0%B5_-_Google_Art_Project.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Doll_in_Kostromskaya_gubernia%27s_costume_%28Russia%2C_18th_c.%2C_GIM%29_by_shakko.JPG/200px-Doll_in_Kostromskaya_gubernia%27s_costume_%28Russia%2C_18th_c.%2C_GIM%29_by_shakko.JPG http://www.booksite.ru/localtxt/korot/kova/byt/101_.jpg Головной убор замужних женщин, характерная черта которого — гребень*Кокошник*-info-Название происходит от слова «кокош», обозначавшего петуха или курицу.*-proof-http://dic.academic.ru/dic.nsf/bse/96718/%D0%9A%D0%BE%D0%BA%D0%BE%D1%88%D0%BD%D0%B8%D0%BA
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Po%C4%8Dajiv%2C_Lavra_11.jpg/200px-Po%C4%8Dajiv%2C_Lavra_11.jpg Островерхая шапочка священника из одной тульи, без полей*Скуфья*-proof-https://cyberleninka.ru/article/n/yazyk-odezhdy-v-proizvedeniyah-i-a-bunina
@@ -113,19 +115,19 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Leonardo_da_Vinci_%28a
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vivian_Rich_Stars_of_the_Photoplay.jpg/200px-Vivian_Rich_Stars_of_the_Photoplay.jpg Перо или любое другое украшение на женском головном уборе*Эгрет*-proof-http://dic.academic.ru/dic.nsf/ushakov/1095646/1100370
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Woman%27s_Spencer_Jacket_and_Petticoat_LACMA_M.2007.211.15a-b_%284_of_9%29.jpg/250px-Woman%27s_Spencer_Jacket_and_Petticoat_LACMA_M.2007.211.15a-b_%284_of_9%29.jpg Короткий жакет с длинными рукавами*Спенсер*-info-По легенде фрак лорда Спенсера подпалил огонь, и он остался в укороченном фраке.*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/43.htm
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Semana_Santa_Sevilla_Mantilla.JPG/220px-Semana_Santa_Sevilla_Mantilla.JPG Накидка, крепящаяся к причёске при помощи высокого гребня*Мантилья*-info-Гребень — пейнета.*-proof-http://fashion.academic.ru/1429
-http://licey102.k26.ru/costume/IMAGES/costumes/salop.jpg Верхняя одежда — накидка*Салоп*-info-В современном языке обозначает старое, поношенное пальто. Оттенок старомодности был и раньше, отсюда устаревшее слово «салопница»: женщина, ходящая по состоятельным домам в поисках подачек, попрошайка, сплетница. «vashe salope» — распутная женщина на французском.
+https://i.imgur.com/CK4RyeS.jpg Верхняя одежда — накидка*Салоп*-info-В современном языке обозначает старое, поношенное пальто. Оттенок старомодности был и раньше, отсюда устаревшее слово «салопница»: женщина, ходящая по состоятельным домам в поисках подачек, попрошайка, сплетница. «vashe salope» — распутная женщина на французском.
 <!-- XIX век -->
 http://ib1.keep4u.ru/b/081002/4a/4a90e4db2ff0ba8b33.jpg Двойные петли на одежде*Бранденбуры*-proof-http://fashion.academic.ru/303/%D0%91%D1%80%D0%B0%D0%BD%D0%B4%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D1%8B
 http://schusters.ru/images/stories/virtuemart/product/4634_bekesha.jpg Верхняя одежда на меху*Бекеша*-proof-http://dic.academic.ru/dic.nsf/ogegova/277144
 http://gosteva-design-bureau.narod.ru/History/almaviva_04.jpg Широкий мужской плащ*Альмавива*-proof-http://fashion.academic.ru/55/%D0%90%D0%BB%D1%8C%D0%BC%D0%B0%D0%B2%D0%B8%D0%B2%D0%B0
-http://www.gumer.info/bibliotek_Buks/History/history_russ_mat_kult/07_clip_image006.jpg Пальто со множеством спускающихся воротников*Каррик*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/58.htm
+http://i.imgur.com/H9dls2N.png Пальто со множеством спускающихся воротников*Каррик*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/58.htm
 http://folk-costume.com/wp-content/uploads/2012/03/gejtman-onegin.jpg Цилиндр с широкими полями*Боливар*-info-Сам Симон Боливар носил треуголку, а не шляпу, названную в честь него.*-proof-http://megabook.ru/article/%D0%91%D0%BE%D0%BB%D0%B8%D0%B2%D0%B0%D1%80%20(%D1%88%D0%BB%D1%8F%D0%BF%D0%B0)
 https://mylitta.ru/uploads/posts/2016-06/1464865293_balmain-4.jpg Сюртук военного образца с бранденбурами*Венгерка*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/60.htm
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Patrick_Moenaert_en_de_Hoofdman_van_de_Edele_Confr%C3%A9rie%2C_Bloedprocessie.JPG/220px-Patrick_Moenaert_en_de_Hoofdman_van_de_Edele_Confr%C3%A9rie%2C_Bloedprocessie.JPG Сюртук, где полы расходятся закруглённо спереди*-proof-http://dic.academic.ru/dic.nsf/efremova/146768/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Patrick_Moenaert_en_de_Hoofdman_van_de_Edele_Confr%C3%A9rie%2C_Bloedprocessie.JPG/220px-Patrick_Moenaert_en_de_Hoofdman_van_de_Edele_Confr%C3%A9rie%2C_Bloedprocessie.JPG Сюртук, где полы расходятся закруглённо спереди*Визитка*-proof-http://dic.academic.ru/dic.nsf/efremova/146768/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0
 http://fashion.artyx.ru/books/item/f00/s00/z0000000/pic/000707.jpg (Слева) Широкий галстук, закрывающий весь верх манишки*Пластрон*-proof-http://gallicismes.academic.ru/30033/%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD
 Одежда для слуг, швейцаров*Ливрея*-proof-http://gallicismes.academic.ru/22325
 http://www.booksite.ru/localtxt/korot/kova/byt/553_.jpg Широкая накидка с капюшоном*Бурнус*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/72.htm
-https://club.season.ru/uploads/post/24314/778/post-24314-1349615778.jpg Женская одежда для домашнего употребления*Капот*-info-Не путать с капором.*-proof-http://dic.academic.ru/dic.nsf/ushakov/831030
+http://i.imgur.com/gVOvp9Y.png Женская одежда для домашнего употребления*Капот*-info-Не путать с капором.*-proof-http://dic.academic.ru/dic.nsf/ushakov/831030
 http://i.imgur.com/G6BCJl3.png Короткая накидка, отделанная бахромой*Тальма*-info-Название получила в честь французского актёра.*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/72.htm
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Crinoline-joke-staged-photo-sequence-ca1860.jpg/220px-Crinoline-joke-staged-photo-sequence-ca1860.jpg Клетка для юбки*Кринолин*-proof-http://www.booksite.ru/localtxt/korot/kova/byt/74.htm
 Тянущийся в виде широкого хвоста задний конец женского платья*Трен*-proof-http://gallicismes.academic.ru/38293/%D1%82%D1%80%D0%B5%D0%BD
