@@ -16,7 +16,7 @@
 
 Ссылка на источник: https://yadi.sk/i/-NrtPCaO3MVjQc
 
-Постоянный адрес пакета:
+Постоянный адрес пакета: https://github.com/Kristinita/Eric-s-Green-Room/blob/master/Архитектурные_элементы.txt
 
 <body>
 <!-- Типы зданий -->
