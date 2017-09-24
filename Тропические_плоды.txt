@@ -21,7 +21,7 @@
 
 Ссылка на источник: https://yadi.sk/i/r8rEqpTs3N9NrB
 
-Постоянный адрес пакета:
+Постоянный адрес пакета: https://github.com/Kristinita/Eric-s-Green-Room/blob/master/Тропические_плоды.txt
 
 <body>
 <!-- Мягкие плоды с 1 косточкой/семенем -->
@@ -90,7 +90,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Orange_peel.jpg/220px-
 https://i.imgur.com/5NnW9Qf.png *Грубокожистый лимон*-info-Флаведо — жёлтая, альбедо — белая часть кожуры лимона. / Родственный род — цитрон с огромной кожурой. https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zitronatszitrone.jpg/1024px-Zitronatszitrone.jpg *-proof-100—1
 https://i.imgur.com/VUg9fql.png Зелёные ягоды с тонкой кожурой и фруктово-кислым вкусом*Лайм*-info-Лаймом спрыскивают салаты и фрукты со слабым вкусом*-proof-101—2
 https://i.imgur.com/vBgsTwP.png *Папеда*-info-В Индонезии и Малайзии сок из папеды или изготавливаемое из него средство «ubad jamu» наносят на тело для изгнания злых духов*-proof-102—3
-https://i.imgur.com/pWUtx9c.png *Танжерин*-info-Цитрусовое, рассматриваемое и как разновидность мандарина и независимо от мандарина*-proof-http://edis.ifas.ufl.edu/ch074 *-proof-
+https://i.imgur.com/pWUtx9c.png *Танжерин*-info-Цитрусовое, рассматриваемое и как разновидность мандарина и независимо от мандарина*-proof-http://edis.ifas.ufl.edu/ch074
 http://www.citrusvariety.ucr.edu/images/NulesCVC007_000.jpg Гибрид мандарина и померанца*Клементин*-info-С плодов мандаринов, продаваемых на рынке, удаляют зелёные пятна с помощью этилена*-proof-104*-proof-http://www.citrusvariety.ucr.edu/citrus/nules.html *-proof-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4113729/ *-proof-103—4
 https://i.imgur.com/sXYzDqv.png Гибрид танжерина и грейпфрута или помело*Танжело*-info-Имеет сорта «Орландо» и «Миннеола» («Минеола»)*-proof-http://sarasota.ifas.ufl.edu/FCS/FlaFoodFare/Tangelo.pdf
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Citrus_unshiu_20101127_c.jpg/265px-Citrus_unshiu_20101127_c.jpg Японский мандарин*Уншиу*Сацума*Сатсума*Сатцума*-proof-http://aggie-horticulture.tamu.edu/plantanswers/fruit/satsuma.html
@@ -131,7 +131,7 @@ https://i.imgur.com/Mf0M0EM.png У ЭТОГО плода бархатисто-опушённая коричневая ко
 https://i.imgur.com/Ie11QRP.png *Чёрная сапота*Чёрная хурма*-proof-149—50
 https://web.archive.org/web/20060619153047if_/http://www.jis.gov.jm:80/special_sections/This%20Is%20Jamaica/images/ackee.gif Национальный фрукт Ямайки*Вкусная блигия*Блигия*Аки*-proof-https://web.archive.org/web/20060619153047/http://www.jis.gov.jm/special_sections/This%20Is%20Jamaica/symbols.html *-proof-150—1
 https://i.imgur.com/JkyQn8R.png *Флакурция*Мадагаскарская слива*-proof-156—7
-https://i.imgur.com/gmOeeQ1.png Относится к числу фруктов, имеющих наиболее высокий процент содержания витамина C*Барбадосская вишня*Мальпигия гранатолистная*-info-https://i.imgur.com/PSWW1kP.png *-proof-158—9
+https://i.imgur.com/gmOeeQ1.png Относится к числу фруктов, имеющих наиболее высокий процент содержания витамина C*Барбадосская вишня*Гранатолистная мальпигия*-info-https://i.imgur.com/PSWW1kP.png *-proof-158—9
 https://i.imgur.com/Arje9PU.png Дерево, ствол которого во время цветения и плодоношения покрывается белыми цветками и ягодами*Яботикаба*-proof-159—60
 <!-- https://i.imgur.com/oaWsG4C.png *Араза*-proof-160—1 -->
 https://i.imgur.com/3O4chWp.png https://i.imgur.com/RNN5bgO.png *Сизигиум аквеум*Водяное яблоко*Восковое яблоко*-info-Родственны розовое и малайское яблоко*-proof-161—3
@@ -156,7 +156,7 @@ https://i.imgur.com/657JWSc.png https://i.imgur.com/STBVO3S.png *Свечное дерево*
 https://i.imgur.com/osZqvYy.png *Тыквенное дерево*Древесная калебаса*-info-Как и калебасу выращивают, в основном, из-за скорлупы плодов. С распространением дешёвой пластиковой посуды значение снизилось.*-proof-186—7
 https://i.imgur.com/boDWbJ8.png *Ферония*Ферония слоновая*Слоновое яблоко*Слоновье яблоко*-proof-187
 https://i.imgur.com/PPRxKdw.png В Индии считается священным деревом*Малабарский апельсин*Баэль*-info-Находится в родстве с цитрусовыми*-proof-188—9
-https://i.imgur.com/7hh13j0.png *Балия*Гибискус съедобный*Дамские пальчики*-info-Благодаря содержанию слизи плоды хорошо подходят для питания желудочных больных*-proof-189—90
+https://i.imgur.com/7hh13j0.png *Бамия*Гибискус съедобный*Дамские пальчики*-info-Благодаря содержанию слизи плоды хорошо подходят для питания желудочных больных*-proof-189—90
 https://i.imgur.com/hkFuDZV.png https://i.imgur.com/C4ACktX.png Другое название папайи*Дынное дерево*-info-Семейство кариковые, один из самых распространённых тропических фруктов. Пол папайи строго не разделён, однодомные растения могут превращаться в двудомные и наоборот. Быстро растёт, даёт до 100 килограммов плодов в год.*-proof-190—2
 <!-- https://i.imgur.com/etWTVOK.png *Горная папайя*-proof-192—3 -->
 https://i.imgur.com/zp26rLL.png Паприка богата содержанием ЭТОГО алкалоида*Капсаицин*-info-Паприка — красный стручковый перец. Иногда паприкой называют и стручковый перец/ Капсаицин применяется в газовых пистолетах. / Кайенский перец — мелкая и очень острая разновидность паприки.*-proof-http://dic.academic.ru/dic.nsf/bse/118379/%D0%9F%D0%B0%D0%BF%D1%80%D0%B8%D0%BA%D0%B0 *-proof-http://dic.academic.ru/dic.nsf/dic_fwords/25743/%D0%9F%D0%90%D0%9F%D0%A0%D0%98%D0%9A%D0%90 *-proof-193—4
