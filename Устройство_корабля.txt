@@ -22,7 +22,7 @@
 
 Ссылка на источник: https://seatracker.ru/viewtopic.php?t=11666
 
-Постоянный адрес пакета:
+Постоянный адрес пакета: https://github.com/Kristinita/Eric-s-Green-Room/blob/master/Устройство_корабля.txt
 
 <body>
 <!-- Часть первая -->
