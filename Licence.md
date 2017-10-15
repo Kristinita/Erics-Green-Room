@@ -1,4 +1,4 @@
-Copyright © 2017 Sasha ChernykhCopyright © 2017 Sasha Chernykh
+Copyright © 2017 Sasha Chernykh
 
 ## creative commons
 
