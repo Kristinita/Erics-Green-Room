@@ -16,7 +16,7 @@
 
 Ссылка на источник: https://rutracker.org/forum/viewtopic.php?t=4464380
 
-Постоянный адрес пакета:
+Постоянный адрес пакета: https://github.com/Kristinita/Erics-Green-Room/blob/master/Древнегреческий_эпос.txt
 
 <body>
 <!-- Древнегреческий эпос -->
