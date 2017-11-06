@@ -27,7 +27,7 @@
 <!-- Северная Америка -->
 Гаити*Сантим*-proof-106
 Аруба*Цент*-proof-https://www.thespruce.com/money-systems-around-the-world-4071204#step-heading
-Коста-Рика*Сентимо*-wrong-Сентаво*-proof-112
+Коста-Рика*Сентимо*-wrong-Сентаво*-wrong-Сентесимо*-proof-112
 Панама*Сентесимо*-wrong-Сентимо*-wrong-Сентаво*-proof-113
 <!-- Южная Америка -->
 Венесуэла*Сентимо*-wrong-Сентесимо*-wrong-Сентаво*-proof-114
@@ -48,7 +48,7 @@
 Украина*Копейка*-info-В 1992—6 денежной единицей был купоно-карбованец*-proof-159
 Молдова*Бань*-proof-http://www.numizm.ru/html/l/ley.html
 Хорватия*Липа*-proof-161
-Словения*Стотин*-proof-http://www.bsi.si/en/banknotes-and-coins.asp?MapaId=951
+Словения (до перехода на евро)*Стотин*-proof-http://www.bsi.si/en/banknotes-and-coins.asp?MapaId=951
 Македония*Дени*-proof-http://www.nbrm.mk/prebaruvanje.nspx?q=%D0%B4%D0%B5%D0%BD%D0%B8
 Босния и Герцеговина*Фенинг*-proof-http://www.cbbh.ba/Content/Read/1072
 Сербия*Пара*-proof-160
@@ -62,7 +62,7 @@
 Словакия до евро*Геллер*-proof-151
 Литва до евро*Цент*-info-На монете 1938 года изображался президент Антанас Сметона*-proof-154
 Латвия до евро*Сантим*-proof-https://www.bank.lv/en/banknotes-and-coins/lats-banknotes-and-coins/circulation-coins
-Эстония до евро*Сент*-proof-https://www.eestipank.ee/en/notes-and-coins/estonian-coins
+Эстония до евро*Сент*-wrong-Цент*-proof-https://www.eestipank.ee/en/notes-and-coins/estonian-coins
 Греция до евро*Лепта*-info-Первый президент МОК — Деметриос Викелас*-proof-164
 Испания до евро*Сентимо*-wrong-Сентаво*-wrong-Сентесимо*-proof-http://www.numizm.ru/html/p/peseta.html
 Португалия до евро*Сентаво*-wrong-Сентимо*-proof-http://www.numizm.ru/html/6/6skudo.html
@@ -73,7 +73,7 @@
 Марокко*Сантим*-tao-Арабские страны*-info-173
 Египет*Пиастр*-tao-Арабские страны*-info-Ранее пиастры делились на 10 милльемов*-proof-http://www.numizm.ru/html/f/funt_egipetskiy.html
 Судан*Пиастр*-tao-Арабские страны*-proof-http://pjsymes.com.au/articles/NewSudan.htm
-Ливия 1/1000*Дихрам*-tao-Арабские страны*-proof-http://www.numizm.ru/html/d/dinar_liviyskiy.html
+Ливия 1/1000*Дихрам*-tao-Арабские страны*-kns-Не диРХам*-proof-http://www.numizm.ru/html/d/dinar_liviyskiy.html
 Тунис 1/1000*Миллим*-tao-Арабские страны*-proof-174
 Судан 1/1000*Милльем*-tao-Арабские страны*-proof-http://pjsymes.com.au/articles/NewSudan.htm
 ЮАР*Цент*-proof-177
@@ -96,7 +96,7 @@
 Сейшельские острова*Цент*-proof-http://www.numizm.ru/html/r/rupi8_seyqel5ska8.html
 Маврикий*Цент*-proof-http://www.numizm.ru/html/r/rupi8_mavrikiyska8.html
 Сан-Томе и Принсипи*Сентимо*-wrong-Сентесимо*-wrong-Сентаво*-proof-http://www.numizm.ru/html/d/dobra.html
-Мадагаскар 1/5*Ираймбиланья*-info-Ираймбиланья — ранее допустимое название мальгашского франка, 5 которых составили 1 ариари*-proof-http://www.banque-centrale.mg/index.php?id=m3_4 На официальном сайте Банка Мадагаскара 1 ираймбиланья называется 0.2 ариари
+Мадагаскар 1/5*Ираймбиланья*-info-Ираймбиланья — ранее допустимое название мальгашского франка, 5 которых составили 1 ариари*-info-На официальном сайте Банка Мадагаскара 1 ираймбиланья называется 0.2 ариари*-proof-http://www.banque-centrale.mg/index.php?id=m3_4
 Мавритания 1/5*Хумс*-proof-191
 <!-- Азия -->
 Кыргызстан*Тыйын*-proof-http://www.nbkr.kg/index1.jsp?item=146&lang=RUS
@@ -130,10 +130,10 @@
 Монголия*Мунгу*-proof-221
 Бутан*Четрум*Чертум*-proof-http://www.numizm.ru/html/n/ngultrum.html
 КНДР и Южная Корея*Чон*-wrong-Чона*-info-На некоторых южнокорейских монетах изображён кобуксон — средневековый броненосец, корабль-черепаха*-proof-http://www.numizm.ru/html/v/vona.html
-Япония*Сен*-wrong-Цент*-wrong-Сена-proof- http://www.numizm.ru/html/i/iena.html
-Индонезия*Сен*-wrong-Цент*-npt-Сначала Сукарно, а потом Сухарто. По алфавиту.-proof- http://www.numizm.ru/html/r/rupi8_indoneziyska8.html
-Филиппины*Сентимо*-proof-http://www.bsp.gov.ph/bspnotes/curr_bsp_coins.asp
-Малайзия*Сен*-wrong-Цент*-info-Малайзия состоит из Сабаха, который на северо-востоке Калимантана; Саравака — «страны белых раджей», что на севере Борнео; и Малайи.*-proof-http://www.numizm.ru/html/r/ringgit.html
+Япония*Сен*-wrong-Цент*-wrong-Сена*-proof-http://www.numizm.ru/html/i/iena.html
+Индонезия*Сен*-wrong-Цент*-npt-Сначала Сукарно, а потом Сухарто. По алфавиту.*-proof-http://www.numizm.ru/html/r/rupi8_indoneziyska8.html
+Филиппины*Сентимо*-wrong-Сентаво*-wrong-Сентесимо*-proof-http://www.bsp.gov.ph/bspnotes/curr_bsp_coins.asp
+Малайзия*Сен*-wrong-Цент*-info-Малайзия состоит из Сабаха, который на северо-востоке Калимантана; Саравака — «страны белых раджей», что на севере Борнео; и Малайи*-proof-http://www.numizm.ru/html/r/ringgit.html
 Бруней*Сен*-wrong-Цент*-proof-http://www.numizm.ru/html/d/dollar_bruneyskiy.html
 Таиланд*Сатанг*-proof-233
 Ирак 1/1000*Филс*-proof-http://www.numizm.ru/html/d/dinar_irakskiy.html
