@@ -22,7 +22,7 @@ Heroes_of_the_Great_Patriotic_War.txt
 Hormones.txt  
 Internet_memes.txt  
 Lord_of_the_Rings.txt  
-Mathematical_figures.txt  
+Mathematical_curves.txt  
 Monetary_units.txt  
 Names_of_stars.txt  
 Natural_disasters.txt  
