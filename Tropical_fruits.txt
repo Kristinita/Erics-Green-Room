@@ -15,13 +15,13 @@
 
 Ответ к примеру вопроса 2: Ариллус
 
-Описание источника: «Тропические плоды»
+Источник(и): «Тропические плоды»
 
-Автор(ы) материалов источника: доктор Бернд Новак — преподаватель ботаники и агрономии университета Гиссена, его жена Беттина Шульц — дипломированный биолог https://www.amazon.de/Taschenlexikon-tropischer-Nutzpflanzen-ihrer-Fr%C3%BCchte/dp/3494014558
+Автор(ы), редакторы и рецензенты (если есть) материалов источника(ов): доктор Бернд Новак — преподаватель ботаники и агрономии университета Гиссена, его жена Беттина Шульц — дипломированный биолог https://www.amazon.de/Taschenlexikon-tropischer-Nutzpflanzen-ihrer-Fr%C3%BCchte/dp/3494014558
 
-Ссылка на источник: https://yadi.sk/i/r8rEqpTs3N9NrB
+Ссылка(и) на источник(и): https://yadi.sk/i/r8rEqpTs3N9NrB
 
-Постоянный адрес пакета: https://github.com/Kristinita/Eric-s-Green-Room/blob/master/Тропические_плоды.txt
+Постоянный адрес пакета: https://github.com/Kristinita/Eric-s-Green-Room/blob/master/Tropical_fruits.txt
 
 <body>
 <!-- Мягкие плоды с 1 косточкой/семенем -->

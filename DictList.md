@@ -36,6 +36,7 @@ Russian_clothes,_shoes_and_jewelry_until_the_XX_century.txt
 Russian_periodicals_of_the_XIX_century.txt  
 Russian_settlements.txt  
 Soviet_cars_and_minibuses.txt  
+Soviet_songs.txt  
 Structure_of_the_human_brain_and_eyes.txt  
 Terms_of_genetics.txt  
 Transcaucasian_cuisine.txt  

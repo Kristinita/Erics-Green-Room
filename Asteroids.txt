@@ -10,11 +10,11 @@
 
 ќтвет к примеру вопроса 2: ÷ерера
 
-ќписание источника: ЂDictionary of minor planet namesї, pages 15Ч24. ЂPrepared on Behalf of Commission 20 Under theAuspices of the InternationalAstronomical Unionї, Ђfifth Revised and Enlarged Editionї.   вопросам могут быть также проставлены дополнительные источники.
+»сточник(и): ЂDictionary of minor planet namesї, pages 15Ч24. ЂPrepared on Behalf of Commission 20 Under theAuspices of the InternationalAstronomical Unionї, Ђfifth Revised and Enlarged Editionї.   вопросам могут быть также проставлены дополнительные источники.
 
-јвтор(ы) материалов источника: Ћутц ƒитер Ўмадель Ч немецкий астроном и первооткрыватель астероидов, https://ru.wikipedia.org/wiki/%D0%A8%D0%BC%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C,_%D0%9B%D1%83%D1%86_%D0%94%D0%B8%D1%82%D0%B5%D1%80
+јвтор(ы), редакторы и рецензенты (если есть) материалов источника(ов): Ћутц ƒитер Ўмадель Ч немецкий астроном и первооткрыватель астероидов, https://ru.wikipedia.org/wiki/%D0%A8%D0%BC%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C,_%D0%9B%D1%83%D1%86_%D0%94%D0%B8%D1%82%D0%B5%D1%80
 
-—сылка на источник: https://yadi.sk/i/0nGDYQ8U3P8K2c
+—сылка(и) на источник(и): https://yadi.sk/i/0nGDYQ8U3P8K2c
 
 ѕосто€нный адрес пакета: https://github.com/Kristinita/Erics-Green-Room/blob/master/Asteroids.txt
 
