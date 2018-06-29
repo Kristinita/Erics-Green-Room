@@ -9,6 +9,7 @@ Arab,_Tatar,_Turkish_and_Uzbek_cuisines.txt
 Architectural_elements.txt  
 Artistic_means_of_the_Russian_language.txt  
 Asteroids.txt  
+Astronomy_riddles.txt  
 Brightest_stars_of_the_constellations.txt  
 Capitals,_administrative_centers_and_extreme_points_of_the_continents.txt  
 Changed_the_names_of_geographical_objects_of_the_USSR_and_Eastern_Europe.txt  
@@ -17,6 +18,8 @@ Cyrillic_number_system.txt
 Dates_of_the_Olympic_Games.txt  
 Device_of_the_ship.txt  
 Different_catastrophes.txt  
+Eastern_Europe_countries_in_XX_century.txt  
+Economics.txt  
 Heavyweight_boxers.txt  
 Heroes_of_the_Great_Patriotic_War.txt  
 Hormones.txt  
@@ -27,6 +30,7 @@ Mathematical_curves.txt
 Monetary_units.txt  
 Names_of_stars.txt  
 Natural_disasters.txt  
+Nazi_leaders.txt  
 Nobel_Prize_in_Literature.txt  
 Olympic_and_football_talismans.txt  
 Paris.txt  
