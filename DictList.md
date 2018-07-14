@@ -12,7 +12,9 @@ Asteroids.txt
 Astronomy_riddles.txt  
 Brightest_stars_of_the_constellations.txt  
 Capitals,_administrative_centers_and_extreme_points_of_the_continents.txt  
+Carnivals_and_holidays.txt  
 Changed_the_names_of_geographical_objects_of_the_USSR_and_Eastern_Europe.txt  
+Constructed_languages.txt  
 Cuisines_of_the_western_republics_of_the_former_USSR.txt  
 Cyrillic_number_system.txt  
 Dates_of_the_Olympic_Games.txt  
@@ -20,6 +22,7 @@ Device_of_the_ship.txt
 Different_catastrophes.txt  
 Eastern_Europe_countries_in_XX_century.txt  
 Economics.txt  
+Harry_Potter.txt  
 Heavyweight_boxers.txt  
 Heroes_of_the_Great_Patriotic_War.txt  
 Hormones.txt  
@@ -27,6 +30,7 @@ Internet_memes.txt
 Lord_of_the_Rings.txt  
 Maniacs_and_serial_killers.txt  
 Mathematical_curves.txt  
+Measures.txt  
 Monetary_units.txt  
 Names_of_stars.txt  
 Natural_disasters.txt  
@@ -39,6 +43,9 @@ Russian_and_Soviet_military_ranks.txt
 Russian_clothes,_shoes_and_jewelry_until_the_XX_century.txt  
 Russian_periodicals_of_the_XIX_century.txt  
 Russian_settlements.txt  
+Scandinavian_gods.txt  
+Scandinavian_heroes.txt  
+Slavonic_holidays.txt  
 Soviet_cars_and_minibuses.txt  
 Soviet_songs.txt  
 Structure_of_the_human_brain_and_eyes.txt  

@@ -43,7 +43,7 @@
 1. https://yadi.sk/i/xKLgDqTW3PLkLf
 2. https://yadi.sk/i/ldM1SHpB3PLkJF
 
-Постоянный адрес пакета:
+Постоянный адрес пакета: https://github.com/Kristinita/Erics-Green-Room/blob/master/Lord_of_the_Rings.txt
 
 <body>
 <!-- Дэвид Колберт -->
