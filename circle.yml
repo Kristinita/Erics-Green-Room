@@ -4,10 +4,15 @@
 # Circle CI continuous integration
 # Comments:
 # https://github.com/Kristinita/Erichek/blob/master/circle.yml
+
+# Use CircleCI 2.0
+# https://circleci.com/docs/2.0/language-python/#config-walkthrough
+version: 2
+
 machine:
   python:
     # [WARNING] No higher Python versions at May 2018 in Circle CI
-    version: 3.6.3
+    version: 3.7.0
 
 dependencies:
 
