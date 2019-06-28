@@ -14,6 +14,8 @@
 
 Автор(ы), редакторы и рецензенты (если есть) материалов источника(ов): Иван Яковлевич Депман, историк математики, профессор, популяризатор науки — https://pedagogical_dictionary.academic.ru/933/%D0%94%D0%B5%D0%BF%D0%BC%D0%B0%D0%BD%2C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B8%D1%87 http://www.mathnet.ru/links/23ad97f169d93dec2724e7798f9cc9ad/mo551.pdf
 
+Обоснование ограничений: Упомянутая на странице 20 история о математике Вальмесе, скорее всего, является выдумкой — https://dxdy.ru/post346976.html
+
 Ссылка(и) на источник(и): https://yadi.sk/i/3z3inc9U3YcsXK
 
 Постоянный адрес пакета: https://github.com/Kristinita/Eric-s-Red-Room/blob/master/Меры.txt
