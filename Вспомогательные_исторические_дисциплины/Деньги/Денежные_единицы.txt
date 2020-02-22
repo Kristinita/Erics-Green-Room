@@ -145,7 +145,7 @@
 Япония*Иена*-wrong-Йена*-proof-http://www.numizm.ru/html/i/iena.html
 Индонезия*Рупия*-proof-http://www.numizm.ru/html/r/rupi8_indoneziyska8.html
 Тимор-Лешти*Доллар США*-proof-http://timor-leste.gov.tl/?p=547&lang=en
-Филиппины*Писо*-wrong-Песо*-kns-Да, точнее именно так, а не «песо».*-proof-http://www.bsp.gov.ph/bspnotes/curr_ngc_banknote.asp
+Филиппины*Писо*-wrong-Песо*-kns-Да, точнее именно так, а не «песо»*-proof-http://www.bsp.gov.ph/bspnotes/curr_ngc_banknote.asp
 Малайзия*Ринггит*-proof-http://www.numizm.ru/html/r/ringgit.html
 Сингапур*Доллар*-proof-231
 Бруней*Доллар*-proof-http://www.numizm.ru/html/d/dollar_bruneyskiy.html
